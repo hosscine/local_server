@@ -1,7 +1,7 @@
 # local_server
 
 ``` bash
-curl localhost/vue
+curl localhost/vue >> foo.vue
 ```
 
 ```
